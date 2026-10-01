@@ -1,6 +1,1 @@
-<a href="https://ghfind.com/u/miganekawako?ref=badge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/miganekawako?theme=dark&lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/miganekawako?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
-  </picture>
-</a>
+<a href="https://ghfind.com/u/miganekawako?ref=badge"><img src="https://ghfind.com/api/card/miganekawako?theme=light" alt="GitHub Roast" width="600" /></a>
